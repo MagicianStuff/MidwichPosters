@@ -1,0 +1,10 @@
+{
+  "name": "MidwichPosters",
+  "version_number": "1.0.0",
+  "website_url": "https://midwichoct.com",
+  "description": "Adds various posters and paintings designed by the Midwich Valley OCT fandom.",
+  "dependencies": [
+    "femboytv-LethalPosters-1.2.0",
+    "femboytv-LethalPaintings-1.2.0"
+  ]
+}
